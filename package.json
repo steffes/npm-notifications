@@ -4,7 +4,7 @@
   "description": "Empty repo that's connected to greenkeeper to get notifications on package updates",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"give me my notifications\""
   },
   "keywords": [],
   "author": "",
