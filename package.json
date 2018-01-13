@@ -1,0 +1,23 @@
+{
+  "name": "npm-notifications",
+  "version": "1.0.0",
+  "description": "Empty repo that's connected to greenkeeper to get notifications on package updates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@stencil/core": "^0.1.4",
+    "@stencil/router": "0.0.21",
+    "agenda": "^1.0.3",
+    "capacitor": "^0.5.5",
+    "javascript-opentimestamps": "^0.2.7",
+    "mongoose": "^4.13.9",
+    "mongoose-unique-validator": "^1.0.6",
+    "passport-twitter": "^1.0.4",
+    "twitter": "^1.7.1"
+  }
+}
