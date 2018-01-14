@@ -10,10 +10,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@capacitor/cli": "0.0.10",
+    "@capacitor/core": "0.0.10",
     "@stencil/core": "^0.1.4",
     "@stencil/router": "0.0.21",
     "agenda": "^1.0.3",
-    "capacitor": "^0.5.5",
+    "agendash": "^0.4.0",
     "javascript-opentimestamps": "^0.2.7",
     "mongoose": "^4.13.9",
     "mongoose-unique-validator": "^1.0.6",
