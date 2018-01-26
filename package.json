@@ -1,7 +1,7 @@
 {
   "name": "npm-notifications",
   "version": "1.0.0",
-  "description": "Empty repo that's connected to greenkeeper to get notifications on package updates",
+  "description": "An empty repo that's connected to services to get notifications on package updates",
   "main": "index.js",
   "scripts": {
     "test": "echo \"give me my notifications\""
