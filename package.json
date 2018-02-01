@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@capacitor/cli": "0.0.15",
+    "@capacitor/cli": "0.0.36",
     "@capacitor/core": "0.0.36",
     "@stencil/router": "0.0.23",
     "@stencil/core": "^0.2.0",
