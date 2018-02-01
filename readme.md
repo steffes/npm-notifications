@@ -14,13 +14,10 @@ Best and easiest option in my opinion. Renovate will open a PR after package upd
 ```js
 {
   "extends": [
-    "config:base"
-  ],
-  "automerge": true,
-  "major": {
-    "automerge": false
-  },
-  "schedule": "every monday"
+    "config:base",
+    ":automergeMinor",
+    "schedule:weekly"
+  ]
 }
 ```
 ## 🌳 Greenkeeper.io
