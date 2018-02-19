@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@capacitor/cli": "0.0.97",
-    "@capacitor/core": "0.0.76",
+    "@capacitor/core": "0.0.97",
     "@stencil/router": "0.0.25",
     "@stencil/core": "^0.2.0",
     "agenda": "^1.0.3",
