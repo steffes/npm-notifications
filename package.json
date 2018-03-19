@@ -13,7 +13,7 @@
     "@capacitor/cli": "0.0.113",
     "@capacitor/core": "0.0.113",
     "@stencil/router": "0.0.27",
-    "@stencil/core": "^0.6.0",
+    "@stencil/core": "^0.7.0",
     "agenda": "^1.0.3",
     "agendash": "^0.4.0",
     "javascript-opentimestamps": "^0.2.7",
