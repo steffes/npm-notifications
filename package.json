@@ -22,6 +22,6 @@
     "passport-twitter": "^1.0.4",
     "twit": "^2.2.9",
     "twitter": "^1.7.1",
-    "twitter-text": "^2.0.2"
+    "twitter-text": "^3.0.0"
   }
 }
