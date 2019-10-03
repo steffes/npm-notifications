@@ -4,7 +4,9 @@
   "description": "An empty repo that's connected to services to get notifications on package updates",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"give me my notifications\""
+    "test": "echo \"give me my notifications\"",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "keywords": [],
   "author": "",
@@ -22,6 +24,8 @@
     "passport-twitter": "^1.0.4",
     "twit": "^2.2.9",
     "twitter": "^1.7.1",
-    "twitter-text": "^2.0.2"
-  }
+    "twitter-text": "^2.0.2",
+    "snyk": "^1.230.5"
+  },
+  "snyk": true
 }
