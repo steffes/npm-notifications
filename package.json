@@ -12,7 +12,7 @@
   "dependencies": {
     "@capacitor/cli": "0.0.113",
     "@capacitor/core": "0.0.113",
-    "@stencil/router": "0.3.3",
+    "@stencil/router": "1.0.1",
     "@stencil/core": "^0.18.0",
     "agenda": "^3.0.0",
     "agendash": "^1.0.0",
